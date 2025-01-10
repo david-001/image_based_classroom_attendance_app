@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceDetection\ECNG_FaceDetection\bin\Debug\ECNG_FaceDetection.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceDetection\ECNG_FaceDetection\bin\Debug\ECNG_FaceDetection.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceDetection\ECNG_FaceDetection\bin\Debug\ECNG_FaceDetection.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceDetection\ECNG_FaceDetection\obj\Debug\ECNG_FaceDetection.FaceDetectionForm.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceDetection\ECNG_FaceDetection\obj\Debug\ECNG_FaceDetection.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceDetection\ECNG_FaceDetection\obj\Debug\ECNG_FaceDetection.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceDetection\ECNG_FaceDetection\obj\Debug\ECNG_FaceDetection.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceDetection\ECNG_FaceDetection\obj\Debug\ECNG_FaceDetection.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceDetection\ECNG_FaceDetection\obj\Debug\ECNG_FaceDetection.csprojResolveAssemblyReference.cache

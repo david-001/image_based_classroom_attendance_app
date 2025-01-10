@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\obj\Debug\ECNG_FaceRecognition.FaceRecognition.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\obj\Debug\ECNG_FaceRecognition.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\obj\Debug\ECNG_FaceRecognition.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\bin\Debug\ECNG_FaceRecognition.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\bin\Debug\ECNG_FaceRecognition.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\bin\Debug\ECNG_FaceRecognition.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\bin\Debug\MySql.Data.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\bin\Debug\ZedGraph.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\obj\Debug\ECNG_FaceRecognition.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\obj\Debug\ECNG_FaceRecognition.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\ECNG_FaceRecognition\ECNG_FaceRecognition\obj\Debug\ECNG_FaceRecognition.csprojResolveAssemblyReference.cache

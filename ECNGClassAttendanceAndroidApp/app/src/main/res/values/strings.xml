@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ECNG Class Attendance</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="takePhoto">Take Photo</string>
+    <string name="selectCourse">Select Course</string>
+    <string name="selectPhoto">Select Photo</string>
+    <string name="selectDateTxt">Date (Year-Month-Day)</string>
+    <string name="dateTxt">N/A</string>
+    <string name="selectDate">Select Date</string>
+    <string name="uploadPhoto">Upload Photo</string>
+    <string-array name="ecngCoursesArray">
+        <item>ECNG 3034</item>
+        <item>ECNG 6706</item>
+        <item>ECNG 7000</item>
+    </string-array>
+
+</resources>
